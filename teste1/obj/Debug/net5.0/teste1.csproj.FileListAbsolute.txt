@@ -1,0 +1,16 @@
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.csprojAssemblyReference.cache
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.exe
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.deps.json
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.dll
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\ref\teste1.dll
+C:\workspace\teste_gft\teste1\bin\Debug\net5.0\teste1.pdb
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.dll
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\ref\teste1.dll
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.pdb
+C:\workspace\teste_gft\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache
